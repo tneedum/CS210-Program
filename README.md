@@ -1,4 +1,8 @@
-# CS210-Program
+# CS 210 Portfolio – Module Eight Journal
+
+## Selected Portfolio Project: ChadaTech Clock Project
+
+This repository contains my CS 210 portfolio submission. For this journal, I selected the ChadaTech Clock Project to showcase my C++ programming skills and understanding of modular, well-documented code.
 
 # Summarize the project and what problem it was solving.
 In CS210, I completed multiple C++ programming projects that simulated real-world software tasks.  
@@ -41,3 +45,6 @@ This course strengthened several critical programming skills, including:
 These skills transfer directly to future coursework in data structures, algorithms, software engineering, and any real-world programming job.
 
 I also learned how to think through problems step-by-step and test my logic, which is essential for success in any software development environment.
+
+# How did you make the program maintainable, readable, and adaptable?
+I made the program maintainable by using clear variable names, consistent formatting, and descriptive comments. Functions were used to separate responsibilities, which makes the code easier to modify or expand in the future. This structure allows new features or changes to be added without rewriting large portions of the program.
